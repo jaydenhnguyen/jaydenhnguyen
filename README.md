@@ -14,5 +14,5 @@
 <br/>
 
 
-![jaydenhnguyen's Top Langs](https://github-stats-tau-seven.vercel.app/api/top-langs/?username=jaydenhnguyen&theme=radical&langs_count=4&hide=scss)
+![jaydenhnguyen's Top Langs](https://github-stats-tau-seven.vercel.app/api/top-langs/?username=jaydenhnguyen&theme=radical&langs_count=3&hide=scss,javascript)
 ![jaydenhnguyen's GitHub stats](https://github-stats-tau-seven.vercel.app/api?username=jaydenhnguyen&theme=radical&show_icons=true)
