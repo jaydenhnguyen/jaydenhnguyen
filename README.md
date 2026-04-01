@@ -13,5 +13,6 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydenhnguyen&theme=radical&langs_count=3&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-stats-tau-seven.vercel.app/api?username=jaydenhnguyen&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![jaydenhnguyen's Top Langs](https://github-stats-tau-seven.vercel.app/api/top-langs/?username=jaydenhnguyen&theme=radical&langs_count=4&hide=scss)
+![jaydenhnguyen's GitHub stats](https://github-stats-tau-seven.vercel.app/api?username=jaydenhnguyen&theme=radical&show_icons=true)
